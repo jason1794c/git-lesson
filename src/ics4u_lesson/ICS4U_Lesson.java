@@ -16,9 +16,10 @@ public class ICS4U_Lesson {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-
-        Drawing drawing = new Drawing();
         
+        Drawing drawing = new Drawing();
+        System.out.println("A change!");
+        System.out.println("Another change!");
     }
 
 }
